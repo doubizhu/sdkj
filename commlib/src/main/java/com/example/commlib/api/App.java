@@ -22,8 +22,6 @@ import java.util.ArrayList;
 
 /**
  * @Description: 让其它moudle可是使用 主app Application对象
- * @Author: yzh
- * @CreateDate: 2019/10/22 16:24
  */
 public class App extends MultiDexApplication {
     public static App app;

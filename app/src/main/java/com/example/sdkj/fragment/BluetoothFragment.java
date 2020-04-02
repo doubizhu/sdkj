@@ -7,7 +7,6 @@ import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
 import com.example.commlib.base.mvvm.BaseFragment;
-import com.example.commlib.base.mvvm.BaseViewModel;
 import com.example.sdkj.R;
 import com.example.sdkj.databinding.FragmentBluetoothBinding;
 import com.example.sdkj.viewmodel.MainDetialViewModel;
